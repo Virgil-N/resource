@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="qC-CS49CWI3-kxtJP74h">
+    <mxGraphModel dx="888" dy="968" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-8" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-13" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: normal; text-align: start; color: rgb(90, 90, 90);&quot;&gt;&lt;font color=&quot;#5a5a5a&quot; face=&quot;PingFang SC&quot;&gt;视频号：花径教育(林巨家庭教育)&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="135" x="87.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-19" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; color: rgb(58, 58, 58);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;视频号：跟土拔鼠去玩&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="85" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="好友，校友？履历真实？" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="魏世杰一家" vertex="1">
+          <mxGeometry height="60" width="120" x="95" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="采访魏世杰老人家" vertex="1">
+          <mxGeometry height="80" width="120" x="20" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="子女患疾" vertex="1">
+          <mxGeometry height="80" width="80" x="330" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-15" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="心理精神健康领域" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;textShadow=0;glass=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;b&gt;精神病院 / 精神疾病&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-24" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="僵尸车(车内放置中国国旗，开入精神病院)" vertex="1">
+          <mxGeometry height="60" width="120" x="497" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-21" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-11" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-43" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;endArrow=none;endFill=0;" target="8ZTDLrVMj5yDCJTAsmSm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="噪音恶魔，空中私语，等" vertex="1">
+          <mxGeometry height="80" width="80" x="693" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="国家医保，购药费用，等&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="200" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-26" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-25" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="媒体传播，舆论压力，精神折磨，等" vertex="1">
+          <mxGeometry height="80" width="80" x="517" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-28" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-20" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="8ZTDLrVMj5yDCJTAsmSm-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-44" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="8ZTDLrVMj5yDCJTAsmSm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="投毒下药，假烟制毒，等" vertex="1">
+          <mxGeometry height="80" width="80" x="693" y="218" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-33" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-6" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="8ZTDLrVMj5yDCJTAsmSm-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="271" y="390.5" as="sourcePoint" />
+            <mxPoint x="440" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-36" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="8ZTDLrVMj5yDCJTAsmSm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-38" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="8ZTDLrVMj5yDCJTAsmSm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="高中时候被弄，暗控，现在是明控" vertex="1">
+          <mxGeometry height="60" width="120" x="608" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="舌头被毒等相同的症状" vertex="1">
+          <mxGeometry height="80" width="80" x="452" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-37" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-11" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="8ZTDLrVMj5yDCJTAsmSm-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="337" y="362" as="sourcePoint" />
+            <mxPoint x="387" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="明控" vertex="1">
+          <mxGeometry height="80" width="120" x="521" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#393C56;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;部分信息关联图&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="357" y="-31" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-55" edge="1" parent="1" source="8ZTDLrVMj5yDCJTAsmSm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="8ZTDLrVMj5yDCJTAsmSm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZTDLrVMj5yDCJTAsmSm-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="获取24小时视奸内容" vertex="1">
+          <mxGeometry height="80" width="80" x="275" y="-10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
